@@ -29,6 +29,7 @@ describe('navigation function on dashboard', function(){
         //Select Accounts option
 
         browser.sleep('30000');
+        
     });
 
 });
