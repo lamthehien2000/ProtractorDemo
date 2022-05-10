@@ -28,6 +28,7 @@ describe('Filtering', function(){
         browser.wait(browserWait.presenceOf($('.icon.has-text-danger.is-small')), 5000);
 
         browser.sleep('10000');
+        
     });
 
 });
