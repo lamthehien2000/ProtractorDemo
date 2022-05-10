@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="91.911">
+ <testsuite name="PEP Page" timestamp="2022-05-10T10:03:30" hostname="localhost" time="91.911" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="PEP Page" name="PEP - Add and Approve" time="91.909" />
+ </testsuite>
+</testsuites>
